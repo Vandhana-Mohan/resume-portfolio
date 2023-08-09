@@ -5,9 +5,9 @@ To learn more about me, please refer to the GitHub and LinkedIn links provided i
 
 ### About Me
 
-| Name | GitHub | LinkedIn |
-| :------: | :----: | :------: |
-| **Vandhana Mohan** | [GitHub](https://github.com/Vandhana-Mohan) | [LinkedIn](https://www.linkedin.com/in/vandhanamohan/) |
+| Name | GitHub | LinkedIn | Hobbies |
+| :------: | :----: | :------: | :------: |
+| **Vandhana Mohan** | [GitHub](https://github.com/Vandhana-Mohan) | [LinkedIn](https://www.linkedin.com/in/vandhanamohan/) | Gardening, Traveling |
 
 ---
 
